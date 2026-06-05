@@ -1,2 +1,5 @@
-.env
-.__pycache__/
+env/
+__pycache__/
+*.pyc
+config.bat
+node_modules
